@@ -27,7 +27,7 @@ const routes = {
   },
   stuff: {
     pathname: '/stuff',
-    params '/:id',
+    params: '/:id',
   },
 };
 
