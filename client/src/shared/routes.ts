@@ -25,6 +25,10 @@ const routes = {
     pathname: '/worlds',
     params: '/:id',
   },
+  stuff: {
+    pathname: '/stuff',
+    params '/:id',
+  },
 };
 
 export default routes;
